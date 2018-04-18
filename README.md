@@ -1,14 +1,10 @@
 # Role Name
 
-<!-- A brief description of the role goes here. -->
+Anisble role allowing to deploying a [packstack-based OpenStack](https://www.rdoproject.org/install/packstack/) test instance using Ansible.
+
+Packstack is a CentOS-specific tool allowing to easily deploy OpenStack for mainly development and test related purpose.
 
 ## Requirements
-
-<!--
-Any pre-requisites that may not be covered by Ansible itself or the role should be
-mentioned here.
-For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
--->
 
 ## Role Variables
 
@@ -43,6 +39,4 @@ Apache-2.0
 
 ## Author Information
 
-<!--
-Add the relevant contributors
--->
+Baptiste Grenier
